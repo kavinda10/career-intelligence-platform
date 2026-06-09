@@ -1,0 +1,4 @@
+companies
+locations
+categories
+skills
